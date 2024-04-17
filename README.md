@@ -12,9 +12,9 @@ To experiment with more complex models and explore the capabilities of text gene
 ## Environment
 Below are the versions of libraries used in the environment setup for this project:
 
-Package             Version
------------------- -----------
-accelerate          0.29.1
+Package             Version"\n"
+------------------ -----------"\n"
+accelerate          0.29.1"\n"
 black               24.3.0
 certifi             2024.2.2
 charset-normalizer  3.3.2
