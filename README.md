@@ -7,7 +7,7 @@ This project fine-tunes the GPT-2 model on Shakespearean text data, enabling it 
 Through fine-tuning GPT-2 on the Shakespearean dataset, we achieved impressive results in generating text that captures the essence of Shakespeare's writing. The model demonstrates a remarkable ability to produce coherent and stylistically consistent passages that reflect the language and themes of Shakespearean works.
 
 ## Google Colab
-To experiment with more complex models and explore the capabilities of text generation further, you can access a Google Colab notebook [here](link_to_google_colab_notebook).
+To experiment with more complex models and explore the capabilities of text generation further, you can access a Google Colab notebook [here]([link_to_google_colab_notebook](https://colab.research.google.com/drive/1WWnBJl0ci-UMsf33FMOlQNkzSgGOlTDf?usp=sharing)).
 
 ## Environment
 Below are the versions of libraries used in the environment setup for this project:
