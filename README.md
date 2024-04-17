@@ -1,4 +1,4 @@
-# Shakespearean Text Generation with GPT-2
+# "GPT-2 Refined: Enriching Dialogue with Shakespearean Flair"
 
 ## Overview
 This project fine-tunes the GPT-2 model on Shakespearean text data, enabling it to generate text in the style of Shakespeare. The trained model can be used to generate new text based on provided prompts, producing passages that mimic the language and style of Shakespearean literature.
